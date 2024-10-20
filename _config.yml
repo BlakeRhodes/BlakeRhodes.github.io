@@ -82,6 +82,11 @@ footer-text-col: "#f6f7eb"
 footer-link-col: "#e94f37"
 footer-hover-col: "#e94f37"
 
+highlighter: rouge
+
+rouge:
+  theme: github
+
 ################
 # --- Misc --- #
 ################
