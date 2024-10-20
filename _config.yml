@@ -109,6 +109,10 @@ defaults:
     values:
       layout: "page"
 
+# Link custom CSS
+site-css:
+  - "/assets/css/custom-styles.css"
+
 # Exclude these files from production site
 exclude:
   - CHANGELOG.md
