@@ -66,6 +66,11 @@ feed_show_tags: true
 # Add a search button to the navbar
 post_search: true
 
+# Link custom CSS
+site-css:
+  - "/assets/css/code.css"
+
+
 ######################################
 # --- Colours / background image --- #
 ######################################
@@ -108,10 +113,6 @@ defaults:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
       layout: "page"
-
-# Link custom CSS
-site-css:
-  - "/assets/css/custom-styles.css"
 
 # Exclude these files from production site
 exclude:
