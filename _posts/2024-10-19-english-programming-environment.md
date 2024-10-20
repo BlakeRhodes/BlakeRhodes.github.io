@@ -8,8 +8,6 @@ tags:
   - technology
   - english
 ---
-## English Programming Environment
-
 Since we are assuming that English is a declarative language, let's go one step further and think about the programming environment we would need to leverage English as a programming language.
 
 First off, I don't think a chatbot, even a custom GPT, will be enough. We actually need an IDE with all of the expected features: version control systems (VCS), IntelliSense, file browser, syntax checking, spell checking, runtime environment, etc. While most of these are straightforward—just kidding, they are programming challenges in and of themselves—others don't really exist for English. This limits the examples we have to work from, but we can think through what we would expect to exist if we were to proceed.
