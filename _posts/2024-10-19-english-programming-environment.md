@@ -3,7 +3,7 @@ share: "true"
 layout: post
 title: '"English Programming Environment"'
 date: 2024-10-19
-ta: ai, technology, english
+tags: ai, technology, english
 ---
 ## English Programming Environment
 
