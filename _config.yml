@@ -29,7 +29,7 @@ navbar-links:
 ################
 
 # Image to show in the navigation bar
-avatar: "/assets/img/profile.jpeg"
+avatar: "/assets/img/profile.png"
 round-avatar: true
 
 #####################################
