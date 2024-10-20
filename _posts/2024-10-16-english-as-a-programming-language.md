@@ -8,7 +8,6 @@ tags:
   - paradigm
 date: 2024-10-16
 ---
-
 I started thinking about **English as a programming language**—what does that mean practically? As a believer in **polyglot programming**, I choose languages based on available libraries: [hashtag#Kotlin](https://www.linkedin.com/feed/hashtag/?keywords=kotlin&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7252378983852359680) with [hashtag#SpringFramework](https://www.linkedin.com/feed/hashtag/?keywords=springframework&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7252378983852359680), [hashtag#Python](https://www.linkedin.com/feed/hashtag/?keywords=python&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7252378983852359680) with [hashtag#LangChain](https://www.linkedin.com/feed/hashtag/?keywords=langchain&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7252378983852359680), [hashtag#DotNet](https://www.linkedin.com/feed/hashtag/?keywords=dotnet&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7252378983852359680) for Microsoft technologies. My goal is to quickly capture ideas before they're lost.  
   
 With English becoming a programming language, I worry about library support. Existing examples are often untested and model-dependent, leaving me with just the base language. Being a native English speaker helps, but I hadn't considered what kind of programming language English is.  
