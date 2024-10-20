@@ -1,16 +1,20 @@
 code {
-  background-color: #f6f7eb; /* Light background for inline code */
-  color: #393e41; /* Dark text */
+  background-color: #f6f8fa; /* Light background for inline code */
+  color: #24292f; /* Dark text */
   padding: 0.2em 0.4em;
   border-radius: 3px;
   font-family: 'Courier New', Courier, monospace;
 }
 
 pre {
-  background-color: #393e41; /* Dark background for code blocks */
-  color: #f6f7eb; /* Light text */
+  background-color: #282c34; /* Dark background for code blocks */
+  color: #e1e4e8; /* Light text */
   padding: 1em;
   border-radius: 8px;
   font-family: 'Courier New', Courier, monospace;
-  overflow-x: auto; /* Allows scrolling for long lines */
+  overflow-x: auto;
+}
+
+pre code {
+  color: #e1e4e8; /* Code text color inside pre */
 }
