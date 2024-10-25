@@ -45,8 +45,6 @@ The EEE relies on events to enable communication between these components, allow
 Below is a visual representation of the EEE system design, showing how each component interacts with the others:
 
 
-![full.svg](full.svg)
-
 ```mermaid
 graph TD
     %% Main Components
@@ -92,7 +90,6 @@ graph TD
 
 To make it easier to understand, here is a simplified view of the EEE, grouped into layers:
 
-![simple.svg](simple.svg)
 ```mermaid
 graph TD
     %% Main Components
