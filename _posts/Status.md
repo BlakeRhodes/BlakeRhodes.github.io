@@ -2,6 +2,7 @@
 share: "true"
 layout: page
 title: Status
+date: 2024-10-27
 ---
 
 1. **User Interface (UI)**: JavaScript (React, Vue) for the front end, and HTML/CSS.
