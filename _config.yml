@@ -19,7 +19,7 @@ author: Blake Rhodes
 ###############################################
 
 navbar-links:
-  Status: "2024/10/27/Status.html"
+  Status: "status"
   About Me: "aboutme"
   Resources:
     - GPTSH Project: "https://github.com/BlakeRhodes/gptsh"
