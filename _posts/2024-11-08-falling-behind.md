@@ -1,6 +1,6 @@
 ---
 layout: post
-titl: Falling Behind
+title: Falling Behind
 subtitle: The Cost of Ideation
 date: 2024-11-08
 tags:
