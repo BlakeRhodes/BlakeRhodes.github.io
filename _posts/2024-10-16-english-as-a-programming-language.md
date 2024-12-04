@@ -7,6 +7,8 @@ tags:
   - english
   - paradigm
 date: 2024-10-16
+aliases:
+  - EaaPL
 ---
 I started thinking about **English as a programming language**—what does that mean practically? As a believer in **polyglot programming**, I choose languages based on available libraries: [#Kotlin](https://www.linkedin.com/feed/hashtag/?keywords=kotlin&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7252378983852359680) with [#SpringFramework](https://www.linkedin.com/feed/hashtag/?keywords=springframework&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7252378983852359680), [#Python](https://www.linkedin.com/feed/hashtag/?keywords=python&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7252378983852359680) with [hashtag#LangChain](https://www.linkedin.com/feed/hashtag/?keywords=langchain&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7252378983852359680), [#DotNet](https://www.linkedin.com/feed/hashtag/?keywords=dotnet&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7252378983852359680) for Microsoft technologies. My goal is to quickly capture ideas before they're lost.  
   
