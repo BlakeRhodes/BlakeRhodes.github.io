@@ -8,8 +8,6 @@ tags:
 date: 2024-12-28
 share: "true"
 ---
-# When Human
-
 Here is a thought experiment. 
 
 An AI system is given the task of categorizing if a conversation is with a human or an AI. The human chooses to use an agentic system to respond to the AI during this conversation. 
