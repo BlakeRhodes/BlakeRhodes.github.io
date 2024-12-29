@@ -19,7 +19,7 @@ author: Blake Rhodes
 ###############################################
 
 navbar-links:
-  About Code GPT: "About Code GPT"
+  About Code GPT: "gpt"
   Status: "status"
   About Me: "aboutme"
   Resources:
